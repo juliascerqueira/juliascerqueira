@@ -4,7 +4,7 @@
 
 Atuo com análise de dados, indicadores e melhoria de processos, com experiência em ambientes de tecnologia e indústria.
 
-Atualmente, estou direcionando meu desenvolvimento para **Análise de Dados, Business Intelligence e Analytics**, desenvolvendo projetos com Excel e ampliando meus conhecimentos em Power BI e SQL.
+Atualmente, estou direcionando meu desenvolvimento para Análise de Dados, Business Intelligence e Analytics, ampliando minhas habilidades em análise de dados, visualização e desenvolvimento de projetos voltados a problemas de negócio.
 
 ## 📊 Projeto em destaque
 
