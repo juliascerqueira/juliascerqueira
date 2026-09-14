@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou Julia 👋
 
-<!--
-**juliascerqueira/juliascerqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Português** | [English](README_EN.md)
 
-Here are some ideas to get you started:
+Atuo com análise de dados, indicadores e melhoria de processos, com experiência em ambientes de tecnologia e indústria.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou direcionando meu desenvolvimento para **Análise de Dados, Business Intelligence e Analytics**, desenvolvendo projetos com Excel e ampliando meus conhecimentos em Power BI e SQL.
+
+## 📊 Projeto em destaque
+
+### [Vrinda Sales Analysis](https://github.com/juliascerqueira/vrinda-sales-analysis)
+
+Análise de mais de 31 mil registros de vendas utilizando Excel, passando pela preparação e análise exploratória dos dados até a construção de um dashboard interativo e uma apresentação executiva dos principais resultados.
+
+## 🛠️ Ferramentas
+
+Excel • Power BI • SQL • Jira • VBA • Minitab
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/juliascerqueira/)
